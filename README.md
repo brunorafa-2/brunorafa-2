@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá 👋
 
-<!--
-**brunorafa-2/brunorafa-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Espero que você esteja tendo um ótimo dia.  
+É um prazer ter você por aqui, me chamo Bruno!
 
-Here are some ideas to get you started:
+Sou estudante de programação, focado em aprender Python, lógica de programação e tudo que envolve desenvolvimento no momento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou praticando com projetos próprios e acompanhando o curso de Python do Guanabara, onde estou no Mundo 2.
+
+## O que estou aprendendo
+- Python
+- lógica de programação
+- estruturas de repetição
+- listas e dicionários
+
+## Objetivo atual
+Construir uma base sólida em programação e evoluir para desenvolvimento back-end, área com a qual mais me identifico hoje.
+
+Aprender de forma consistente e prática é meu principal foco no momento 🚀
