@@ -1,4 +1,4 @@
-# Olá senhor ou senhorita!
+# Olá Senhor ou Senhorita!
 
 Espero que você esteja tendo um ótimo dia.  
 É um prazer ter você por aqui, me chamo Bruno!
