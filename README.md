@@ -1,19 +1,30 @@
-# Olá Senhor ou Senhorita!
 
-Espero que você esteja tendo um ótimo dia.  
-É um prazer ter você por aqui, me chamo Bruno!
+# Olá, Senhor ou senhorita!👋
 
-Sou estudante de programação, focado em aprender Python, lógica de programação e tudo que envolve desenvolvimento no momento.
+Seja bem-vindo ao meu perfil.
 
-Atualmente estou praticando com projetos próprios e acompanhando o curso de Python do Guanabara, onde estou no Mundo 2.
+Me chamo Bruno e recentemente iniciei minha graduação em Ciência da Computação.  
+Antes mesmo da faculdade, já vinha estudando programação por conta própria, e foi isso que me fez decidir seguir oficialmente na área.
 
-## O que estou aprendendo
-- Python
-- lógica de programação
-- estruturas de repetição
-- listas e dicionários
+Tenho focado principalmente em Python, lógica de programação e construção de projetos próprios para fortalecer minha base. Gosto de entender como as coisas funcionam por trás, não apenas fazer o código rodar.
 
-## Objetivo atual
-Construir uma base sólida em programação e evoluir para desenvolvimento back-end, área com a qual mais me identifico hoje.
+Atualmente estou:
 
-Aprender de forma consistente e prática é meu principal foco no momento 🚀
+- Desenvolvendo projetos práticos em Python  
+- Aprofundando meus estudos em lógica e estruturas de dados  
+- Melhorando organização e clareza de código  
+- Construindo consistência diária nos estudos  
+
+---
+
+## 🎯 Objetivo
+
+Estou em fase de construção, mas com metas claras.
+
+Quero desenvolver uma base sólida em computação, evoluir para desenvolvimento backend e conquistar minha primeira oportunidade de estágio na área de tecnologia.
+
+Busco crescer de forma consistente, aprendendo não só a programar, mas a pensar como desenvolvedor.
+
+---
+
+Obrigado por passar por aqui 🙂
